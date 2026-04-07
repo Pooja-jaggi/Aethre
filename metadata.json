@@ -1,0 +1,8 @@
+{
+  "name": "Aethre",
+  "description": "An aesthetic, minimalist AI study sanctuary with personalized classrooms, focus-monitoring buddies, and AI-powered learning tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
